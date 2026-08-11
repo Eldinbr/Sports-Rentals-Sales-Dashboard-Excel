@@ -2,6 +2,10 @@ Project Title: **Sports-Rentals-Sales-Dashboard**
 
 An interactive Water Sports Rentals Sales Dashboard built in Tableau Public. This project analyzes rental transactions, revenue, customer trends, equipment performance, seasonal demand, and sales metrics to uncover valuable business insights. The dashboard highlights key metrics such as total revenue, rental bookings, top-performing equipment, customer demographics, seasonal sales trends, and profitability.
 
+Preview
+
+<img width="1137" height="636" alt="Screenshot 2026-07-26 at 10 06 59 AM" src="https://github.com/user-attachments/assets/afc4c461-c3fb-4d84-8521-a817fad5b843" />
+
 
 ## Table of Contents
 
@@ -170,9 +174,6 @@ Business Value
 - Understand customer behavior
 - Maximize profitability
 
-Preview
-
-<img width="1137" height="636" alt="Screenshot 2026-07-26 at 10 06 59 AM" src="https://github.com/user-attachments/assets/afc4c461-c3fb-4d84-8521-a817fad5b843" />
 
 
 
